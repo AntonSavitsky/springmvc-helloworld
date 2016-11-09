@@ -3,7 +3,7 @@
     <groupId>springmvc-helloworld</groupId>
     <artifactId>springmvc-helloworld</artifactId>
     <packaging>war</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>springmvc-helloworld Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
@@ -23,7 +23,7 @@
         <connection>scm:git:ssh://git@github.com/AntonSavitsky/springmvc-helloworld</connection>
         <developerConnection>scm:git:ssh://git@github.com/AntonSavitsky/springmvc-helloworld</developerConnection>
         <url>https://github.com/AntonSavitsky/springmvc-helloworld</url>
-        <tag>springmvc-helloworld-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
