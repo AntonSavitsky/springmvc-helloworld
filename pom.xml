@@ -23,6 +23,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/AntonSavitsky/springmvc-helloworld/</developerConnection>
         <url>https://github.com/AntonSavitsky/springmvc-helloworld/</url>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
